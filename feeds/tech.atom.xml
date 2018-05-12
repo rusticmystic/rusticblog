@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Rustic Mystic - Tech</title><link href="/" rel="alternate"></link><link href="/feeds/tech.atom.xml" rel="self"></link><id>/</id><updated>2018-05-12T00:00:00+05:30</updated><entry><title>How to create and publish an ebook</title><link href="/2018/blg_with_plc.html" rel="alternate"></link><published>2018-05-12T00:00:00+05:30</published><updated>2018-05-12T00:00:00+05:30</updated><author><name>Shivdeep</name></author><id>tag:None,2018-05-12:/2018/blg_with_plc.html</id><summary type="html">A butter smooth guide to publish ebooks and print books</summary><content type="html">&lt;div id="toc" class="toc"&gt;
+&lt;div id="toctitle"&gt;Table of Contents&lt;/div&gt;
+&lt;ul class="sectlevel1"&gt;
+&lt;li&gt;&lt;a href="#_introduction"&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#_prepare_the_content"&gt;Prepare the content&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#_ebook_formats"&gt;Ebook Formats&lt;/a&gt;
+&lt;ul class="sectlevel2"&gt;
+&lt;li&gt;&lt;a href="#_epub"&gt;EPUB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#_pdf"&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="#_cook_the_book"&gt;Cook the book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#_distributers"&gt;Distributers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="sect1"&gt;
+&lt;h2 id="_introduction"&gt;Introduction&lt;/h2&gt;
+&lt;div class="sectionbody"&gt;
+&lt;div class="paragraph"&gt;
+&lt;p&gt;Under construction.
+Watch this space.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="sect1"&gt;
+&lt;h2 id="_prepare_the_content"&gt;Prepare the content&lt;/h2&gt;
+&lt;div class="sectionbody"&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="sect1"&gt;
+&lt;h2 id="_ebook_formats"&gt;Ebook Formats&lt;/h2&gt;
+&lt;div class="sectionbody"&gt;
+&lt;div class="sect2"&gt;
+&lt;h3 id="_epub"&gt;EPUB&lt;/h3&gt;
+
+&lt;/div&gt;
+&lt;div class="sect2"&gt;
+&lt;h3 id="_pdf"&gt;PDF&lt;/h3&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="sect1"&gt;
+&lt;h2 id="_cook_the_book"&gt;Cook the book&lt;/h2&gt;
+&lt;div class="sectionbody"&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="sect1"&gt;
+&lt;h2 id="_distributers"&gt;Distributers&lt;/h2&gt;
+&lt;div class="sectionbody"&gt;
+&lt;div class="paragraph"&gt;
+&lt;p&gt;Amazon, flipkart and Smashwords&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="tech"></category><category term="ebook"></category></entry></feed>
